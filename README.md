@@ -1,2 +1,2 @@
 # BPK-Lampung
-this repository for show chat-bot project when i internship at BPK Provinsi Lampung
+This repository contains the chatbot project I developed during my internship at BPK Provinsi Lampung.
