@@ -1,0 +1,104 @@
+﻿#wp-admin-bar-pvc-post-views .pvc-graph-container {
+    padding-top: 6px;
+    padding-bottom: 6px;
+    position: relative;
+    display: block;
+    height: 100%;
+    box-sizing: border-box;
+}
+
+#wp-admin-bar-pvc-post-views .pvc-line-graph {
+    display: inline-block;
+    width: 1px;
+    margin-right: 1px;
+    background-color: #ccc;
+    vertical-align: baseline;
+}
+
+#wp-admin-bar-pvc-post-views .pvc-line-graph:hover {
+    background-color: #eee;
+}
+
+#wp-admin-bar-pvc-post-views .pvc-line-graph-0 {
+    height: 1%
+}
+
+#wp-admin-bar-pvc-post-views .pvc-line-graph-1 {
+    height: 5%
+}
+
+#wp-admin-bar-pvc-post-views .pvc-line-graph-2 {
+    height: 10%
+}
+
+#wp-admin-bar-pvc-post-views .pvc-line-graph-3 {
+    height: 15%
+}
+
+#wp-admin-bar-pvc-post-views .pvc-line-graph-4 {
+    height: 20%
+}
+
+#wp-admin-bar-pvc-post-views .pvc-line-graph-5 {
+    height: 25%
+}
+
+#wp-admin-bar-pvc-post-views .pvc-line-graph-6 {
+    height: 30%
+}
+
+#wp-admin-bar-pvc-post-views .pvc-line-graph-7 {
+    height: 35%
+}
+
+#wp-admin-bar-pvc-post-views .pvc-line-graph-8 {
+    height: 40%
+}
+
+#wp-admin-bar-pvc-post-views .pvc-line-graph-9 {
+    height: 45%
+}
+
+#wp-admin-bar-pvc-post-views .pvc-line-graph-10 {
+    height: 50%
+}
+
+#wp-admin-bar-pvc-post-views .pvc-line-graph-11 {
+    height: 55%
+}
+
+#wp-admin-bar-pvc-post-views .pvc-line-graph-12 {
+    height: 60%
+}
+
+#wp-admin-bar-pvc-post-views .pvc-line-graph-13 {
+    height: 65%
+}
+
+#wp-admin-bar-pvc-post-views .pvc-line-graph-14 {
+    height: 70%
+}
+
+#wp-admin-bar-pvc-post-views .pvc-line-graph-15 {
+    height: 75%
+}
+
+#wp-admin-bar-pvc-post-views .pvc-line-graph-16 {
+    height: 80%
+}
+
+#wp-admin-bar-pvc-post-views .pvc-line-graph-17 {
+    height: 85%
+}
+
+#wp-admin-bar-pvc-post-views .pvc-line-graph-18 {
+    height: 90%
+}
+
+#wp-admin-bar-pvc-post-views .pvc-line-graph-19 {
+    height: 95%
+}
+
+#wp-admin-bar-pvc-post-views .pvc-line-graph-20 {
+    height: 100%
+}

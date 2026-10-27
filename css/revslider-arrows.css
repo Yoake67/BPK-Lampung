@@ -1,0 +1,33 @@
+﻿#rev_slider_1_1_wrapper .hesperiden.tparrows {
+    cursor: pointer;
+    background: rgba(0, 0, 0, 0.5);
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    display: block;
+    z-index: 1000;
+    border-radius: 50%;
+}
+
+#rev_slider_1_1_wrapper .hesperiden.tparrows.rs-touchhover {
+    background: #000000;
+}
+
+#rev_slider_1_1_wrapper .hesperiden.tparrows:before {
+    font-family: 'revicons';
+    font-size: 20px;
+    color: #ffffff;
+    display: block;
+    line-height: 40px;
+    text-align: center;
+}
+
+#rev_slider_1_1_wrapper .hesperiden.tparrows.tp-leftarrow:before {
+    content: '\e82c';
+    margin-left: -3px;
+}
+
+#rev_slider_1_1_wrapper .hesperiden.tparrows.tp-rightarrow:before {
+    content: '\e82d';
+    margin-right: -3px;
+}

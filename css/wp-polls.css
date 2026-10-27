@@ -1,0 +1,8 @@
+﻿.wp-polls .pollbar {
+    margin: 1px;
+    font-size: 6px;
+    line-height: 8px;
+    height: 8px;
+    background-image: url('https://lampung.bpk.go.id/wp-content/plugins/wp-polls/images/default/pollbg.gif');
+    border: 1px solid #c8c8c8;
+}
